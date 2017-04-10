@@ -11,3 +11,4 @@ S-Paint is the latest in painting software for the home computer for anyone to p
 The software has now been moved to be a free and open source package. Since 2016, development has officially stopped for S-Paint and had been discontinued. You can stil however download the software and use it to your liking.
 
 [Download S-Paint](https://github.com/Kulmetor43/S-Paint/raw/master/SPaintSetup.exe)
+Rough download size: 507 KB
