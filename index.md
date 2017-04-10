@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Kulmetor43/S-Paint/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+S-Paint is the latest in painting software for the home computer for anyone to play with. S-Paint can allow you to paint, fill, or erase some of your drawings that you make. Did you always want to be painting in MS Paint or do you want to paint like a boss with this new piece of software that'll make your painting more fun than ever? This is the software to paint. This is S-Paint.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
