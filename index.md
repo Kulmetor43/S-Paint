@@ -1,8 +1,6 @@
 ## Welcome to S-Paint
 
-You can use the [editor on GitHub](https://github.com/Kulmetor43/S-Paint/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](http://theswaggmaster.weebly.com/uploads/1/1/5/1/11510798/5839791_orig.png)
 
 ![Image](http://theswaggmaster.weebly.com/uploads/1/1/5/1/11510798/8059526_orig.png)
 
@@ -12,8 +10,4 @@ S-Paint is the latest in painting software for the home computer for anyone to p
 
 The software has now been moved to be a free and open source package. Since 2016, development has officially stopped for S-Paint and had been discontinued. You can stil however download the software and use it to your liking.
 
-[Download S-Paint](https://github.com/Kulmetor43/S-Paint/raw/master/SPaintSetup.exe)Download S-Paint
-
-#### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Download S-Paint](https://github.com/Kulmetor43/S-Paint/raw/master/SPaintSetup.exe)
